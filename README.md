@@ -28,14 +28,14 @@ s![Screenshot 2024-07-19 155019](https://github.com/user-attachments/assets/63b6
     ```
 2. Navigate to the project directory:
     ```sh
-    cd contact-manager
+    cd Main1.py
     ```
 
 ## Usage
 
 1. Run the application:
     ```sh
-    python contact_manager.py
+    python Main1.py
     ```
 
 2. Use the GUI to manage your contacts:
